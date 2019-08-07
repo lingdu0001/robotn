@@ -33,7 +33,7 @@
     "dependencies": {
     "ffi": "github:lxe/node-ffi#node-12",
     "ref": "github:lxe/ref#node-12",
-    "ref-struct": "github:lxe/ref-struct#node-12",
+    "ref-struct": "github:lxe/ref-struct#node-12"
     },
     "__npminstall_done": false
 }
